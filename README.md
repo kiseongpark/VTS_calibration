@@ -46,6 +46,8 @@
 rms는 5.6562 로 준수한 수치가 나왔고, 캘리브레이션 파라미터도 호모그래피를 다시 해봐야 알겠지만 잘 나온 것을 확인할 수 있다.
 
 - 이미지
+
+  
 <img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/7d73aaaa-077a-4f07-a7ad-6b21595a4b36" /><img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/fa2f1ab4-ac3a-4b94-9911-e20d993d99bd" />
 
 시야가 좀 좁아지긴 했어도, 예전에 문제였던 가장자리 부분의 왜곡이 어느정도 보정이 된 것을 확인 할 수 있다. 시야를 넓히는 방안도 생각하면 좋겠지만, 빠른 프로젝트 진행을 위해 지금부턴 여기서 나온 파라미터를 가지고, 호모그래피, 측위 과정을 쭉 파볼 예정이다.
