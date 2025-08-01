@@ -3,7 +3,7 @@
 
 ### 1. 체커보드 인식
 
-새로운 카메라를 통해 이미지 100장 정도를 촬영하고(takephoto_with_pi.py활용), 그 중 20장의 이미지를 선별하여 사용하였다.
+라즈베리파이와 어안렌즈 카메라를 통해 이미지 100장 정도를 촬영하고(takephoto_with_pi.py활용), 그 중 20장의 이미지를 선별하여 사용하였다.
 
 [image.zip](attachment:d5f44757-cf2c-4d10-b9b4-b0a960efbf28:image.zip)
 
