@@ -24,6 +24,7 @@
 ### 3. 캘리브레이션 및 이미지 보정
 
 결과
+
 <img width="800" height="350" alt="Image" src="https://github.com/user-attachments/assets/1c389e2b-9073-4f31-9a01-dc18d8e39682" />
 
 - 파라미터
