@@ -15,7 +15,7 @@
 
 필터링 알고리즘 하나만 적용한 코드를 돌렸더니, 중요한 가장자리 부분에 체커 보드가 있는 사진은 코너가 인식되지 않는 현상이 나왔다. 그래서 예전에 썻던, 인식 알고리즘을 최대한 많이 써서, 사진 속 대부분의 체커보드의 코너가 잘 인식되도록 하였다. 나중 결과를 보면 오히려 rms가 더 감소한 것을 확인할 수 있다. 
 
-![image.png](attachment:87057df3-dde9-40f9-9378-b55956028ce6:image.png)
+<img width="1210" height="645" alt="Image" src="https://github.com/user-attachments/assets/dab7f88e-15b6-410b-8113-bad714ac7ae8" />
 
 - 결과로 나온 npz 파일
 
