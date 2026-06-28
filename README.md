@@ -53,4 +53,4 @@ rms는 5.6562 로 준수한 수치가 나왔고, 캘리브레이션 파라미터
 시야가 좀 좁아지긴 했어도, 예전에 문제였던 가장자리 부분의 왜곡이 어느정도 보정이 된 것을 확인 할 수 있다. 시야를 넓히는 방안도 생각하면 좋겠지만, 빠른 프로젝트 진행을 위해 지금부턴 여기서 나온 파라미터를 가지고, 호모그래피, 측위 과정을 쭉 파볼 예정이다.
 
 
-이후 진행된 <https://github.com/kiseongpark/VTS_homography_0821>Homography 과정(차량 좌표 추정)
+이후 진행된 <a href=https://github.com/kiseongpark/VTS_homography_0821>Homography 과정(차량 좌표 추정)
